@@ -20,3 +20,4 @@ if b>0 or c>0 :
     print("either number is true")
 else :
     print("nitheir is true")
+    
